@@ -298,7 +298,7 @@ Compared with a deterministic U-Net baseline, the conditional diffusion model wi
   
 ## License
 
-This project is released for academic and research purposes. Please add an appropriate open-source license, such as MIT, Apache-2.0, or GPL-3.0, before public release.
+This project is released for academic and research purposes.
 
 ## Contact
 
